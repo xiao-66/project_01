@@ -1,0 +1,5 @@
+#忽略index.js文件
+index.js
+
+#忽略shop_ping目录
+shop_ping/
